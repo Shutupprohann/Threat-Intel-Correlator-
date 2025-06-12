@@ -1,2 +1,2 @@
-# Threat-Intel-Correlator-
+# Threat-Intel-Correlator
 A new project 
